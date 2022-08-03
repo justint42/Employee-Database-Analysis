@@ -6,6 +6,10 @@ The purpose of this analysis is to learn and utilize Standard Query Language (vi
 
 ## Results
 
+
+![EmployeeDB](https://user-images.githubusercontent.com/106895220/182501424-e31bc1a5-cf1a-41c5-b119-fa80a8a38120.png)
+
+
 - Per the eligible retiree age table, a substantial percentage of the workforce can retire at any moment. 
 - Most potential retirees are general Staff and Senior Engineers. 
 - Some retirees are also eligible for the mentorship program; can bolster the younger workforce skillset as they take over.

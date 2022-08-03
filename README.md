@@ -6,9 +6,11 @@ The purpose of this analysis is to learn and utilize Standard Query Language (vi
 
 ## Results
 
+<img width="699" alt="Screen Shot 2022-08-02 at 7 59 06 PM" src="https://user-images.githubusercontent.com/106895220/182501736-ac7f77cc-e769-41f5-8205-2bcf5a19a600.png">
 
-![EmployeeDB](https://user-images.githubusercontent.com/106895220/182501424-e31bc1a5-cf1a-41c5-b119-fa80a8a38120.png)
+<img width="479" alt="Screen Shot 2022-08-02 at 7 58 18 PM" src="https://user-images.githubusercontent.com/106895220/182501642-5d208b00-d538-4639-bc6f-3f2308cd466f.png">
 
+<img width="694" alt="Screen Shot 2022-08-02 at 7 58 24 PM" src="https://user-images.githubusercontent.com/106895220/182501645-5adf0b19-81f8-40cd-8f3a-162c73c4b2a4.png">
 
 - Per the eligible retiree age table, a substantial percentage of the workforce can retire at any moment. 
 - Most potential retirees are general Staff and Senior Engineers. 

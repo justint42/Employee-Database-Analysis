@@ -1,8 +1,12 @@
-# Pewlett-Hackard-Analysis
+# Employee-Database-Management
 
 ## Purpose 
 
-The purpose of this analysis is to learn and utilize Standard Query Language (via pgAdmin 4) to manage relational databases. In this case the user is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. What valuable information can be attained by our analysis? 
+"Pewlett Hackard" is a large company boasting several thousand employees and it's been around for a long time. As babt boomers begin to retire at a rapid rate Pewlett Hackard is looking toward the future in two ways. First, it's offering a retirement package for those that meet certain criteria. Second, it's starting to think about which positions need to be filled in the near future. The number of upcoming retirements will leave thousands of job openings. 
+
+What would happen to a company if they didn't look ahead and prepare for this many vacancies? It probably woudn't be pretty. My task is to perform employee research.
+
+The purpose of this analysis is to answer the following questions: Who will be retiring in the nedxt few years, and how many positions will Pewlett Hackard need to fill? This analysis will help future-proof Pewlett-Hackard by generating a list of all employees eligible for the package retirement.
 
 ## Results
 

@@ -6,7 +6,7 @@
 
 What would happen to a company if they didn't look ahead and prepare for this many vacancies? It probably woudn't be pretty. My task is to perform employee research.
 
-The purpose of this analysis is to answer the following questions: Who will be retiring in the nedxt few years, and how many positions will Pewlett Hackard need to fill? This analysis will help future-proof Pewlett-Hackard by generating a list of all employees eligible for the package retirement.
+The purpose of this analysis is to answer the following questions: Who will be retiring in the next few years, and how many positions will Pewlett Hackard need to fill? This analysis will help future-proof Pewlett-Hackard by generating a list of all employees eligible for the package retirement.
 
 ## Results
 

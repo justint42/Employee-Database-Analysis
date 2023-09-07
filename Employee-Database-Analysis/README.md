@@ -1,4 +1,4 @@
-# Employee-Database-Management
+# Employee-Database-Analysis
 
 ## Purpose 
 
